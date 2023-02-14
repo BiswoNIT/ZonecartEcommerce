@@ -1,0 +1,72 @@
+19:05:43.260 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Strating TC_001_AccountRegistrationtTest
+19:05:43.351 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on My Account 
+19:05:43.689 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on Register 
+19:05:43.856 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided First Name 
+19:05:43.917 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Last Name 
+19:05:43.994 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Email 
+19:05:44.057 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Password 
+19:05:49.124 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Set Privacy Policy 
+19:05:49.188 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on Continue 
+19:05:49.681 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Finished TC_001_AccountRegistrationtTest
+19:06:49.927 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Strating TC_001_AccountRegistrationtTest
+19:06:50.017 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on My Account 
+19:06:50.372 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on Register 
+19:06:50.448 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided First Name 
+19:06:50.509 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Last Name 
+19:06:50.583 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Email 
+19:06:50.645 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Password 
+19:06:55.722 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Set Privacy Policy 
+19:06:55.782 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on Continue 
+19:06:56.270 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Finished TC_001_AccountRegistrationtTest
+19:06:57.873 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+19:07:03.703 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+19:07:06.167 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:07:07.397 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:07:07.399 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:07:17.926 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:07:17.926 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:07:28.502 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:07:28.502 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:07:29.607 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:07:30.843 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:10:57.542 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Strating TC_001_AccountRegistrationtTest
+19:10:57.644 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on My Account 
+19:10:57.982 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on Register 
+19:10:58.064 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided First Name 
+19:10:58.129 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Last Name 
+19:10:58.215 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Email 
+19:10:58.283 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Password 
+19:11:03.362 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Set Privacy Policy 
+19:11:03.424 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on Continue 
+19:11:03.902 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Finished TC_001_AccountRegistrationtTest
+19:11:05.469 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+19:11:11.291 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+19:11:13.784 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:11:14.893 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:11:25.470 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:11:25.474 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:11:36.004 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:11:36.007 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:11:46.593 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:11:46.597 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:11:47.726 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:12:12.019 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Strating TC_001_AccountRegistrationtTest
+19:12:12.110 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on My Account 
+19:12:12.400 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on Register 
+19:12:12.481 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided First Name 
+19:12:12.550 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Last Name 
+19:12:12.630 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Email 
+19:12:12.700 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Password 
+19:12:17.762 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Set Privacy Policy 
+19:12:17.830 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on Continue 
+19:12:18.321 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Finished TC_001_AccountRegistrationtTest
+19:12:19.824 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+19:12:25.449 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+19:12:27.868 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:12:29.096 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:12:29.099 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:12:39.634 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:12:39.634 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:12:40.718 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:12:51.232 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+19:12:51.233 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
