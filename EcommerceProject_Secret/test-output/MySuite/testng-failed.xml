@@ -8,7 +8,7 @@
         <methods>
           <include name="teadDown"/>
           <include name="setup"/>
-          <include name="test_LoginDDT" invocation-numbers="2 4"/>
+          <include name="test_LoginDDT" invocation-numbers="3"/>
         </methods>
       </class> <!-- testCases.TC_003_LoginDataDrivenTest -->
     </classes>
