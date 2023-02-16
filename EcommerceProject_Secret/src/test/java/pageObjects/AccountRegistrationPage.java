@@ -28,9 +28,12 @@ public class AccountRegistrationPage extends BasePage {
 
 		@FindBy(xpath = "//button[normalize-space()='Continue']")
 		WebElement btnContinue;
-
+		
+		
+        
 		@FindBy(xpath = "//h1[normalize-space()='Your Account Has Been Created!']")
 		WebElement msgConfirmation;
+		
 
 		public void setFirstName(String fname) {
 			txtFirstname.sendKeys(fname);

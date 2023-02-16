@@ -24,6 +24,7 @@ public class TC_003_LoginDataDrivenTest extends BaseClass {
 			lp.setEmail(email);
 			lp.setPassword(pwd);
 			lp.clickLogin();
+			
 
 			MyAccountPage macc=new MyAccountPage(driver);
 			boolean targetpage = macc.isMyAccountPageExists();// this method is created MyAccountPage

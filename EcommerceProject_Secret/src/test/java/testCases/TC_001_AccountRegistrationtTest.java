@@ -36,7 +36,7 @@ public class TC_001_AccountRegistrationtTest extends BaseClass
 			
 			regpage.setPassword(randomAlphaNumeric());
 			logger.info("Provided Password ");
-			Thread.sleep(5000);
+			Thread.sleep(4000);
 
 			
 			regpage.setPrivacyPolicy();
@@ -45,9 +45,7 @@ public class TC_001_AccountRegistrationtTest extends BaseClass
 			regpage.clickContinue();
 			logger.info("Clicked on Continue ");
 			
-		
-		
-
+	
 			String confmsg = regpage.getConfirmationMsg();
 			Assert.assertEquals(confmsg, "Your Account Has Been Created!");
 		}

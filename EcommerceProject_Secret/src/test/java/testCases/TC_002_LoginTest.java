@@ -30,7 +30,7 @@ public class TC_002_LoginTest extends BaseClass
 			lp.setPassword(rb.getString("password")); // valid password, get it from properties file
 			
 			lp.clickLogin();
-			Thread.sleep(5000);
+			
 			
 			MyAccountPage macc=new MyAccountPage(driver);
 			
